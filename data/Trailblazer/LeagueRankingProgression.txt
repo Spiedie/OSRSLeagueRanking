@@ -1,0 +1,11 @@
+Tier    Rank   Points Points/day Estimated points at end
+Bronze  250884 100    0          100                    
+Iron    200707 540    0          540                    
+Steel   150530 2000   45         4156                   
+Mithril 100353 5270   104        10301                  
+Adamant 50176  12320  508        36936                  
+Rune    12544  22920  534        48794                  
+Dragon  2508   32210  920        76771                  
+Average over 03d
+League ends in 48d 10h
+Last update 2020/11/18 22:31:52 (UTC)

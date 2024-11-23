@@ -1,0 +1,8 @@
+Tier    Rank   Points
+Bronze  359010 100   
+Iron    287208 1700  
+Steel   215406 6640  
+Mithril 143604 16890 
+Adamant 71802  27910 
+Rune    17950  44620 
+Dragon  3590   56840 
